@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning HTML5, CSS and JavaScript.
+
 <!--
 **spacetraveler22/spacetraveler22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
